@@ -3,7 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ab1277cf92b3c3d4c12b9d57a7e4c2be",
+  "assets/AssetManifest.json": "71138e14ab50efa7f0099c02538e98bd",
+"assets/assets/acle_guissona.jpg": "f72a7af0808ce3372adc7a17c558d981",
+"assets/assets/ca_sabadell_handbol.jpg": "64a55a12482b3f357a13442a2d61d071",
+"assets/assets/ceaca_tarrega.jpg": "fd11ea1453a13015615e95be4070a647",
+"assets/assets/handbol_sant_cugat.jpg": "da6ae19ae6f821677bd91afddb3c136b",
+"assets/assets/hand_bol_sant_quirze.jpg": "5e7fba772dea207ada9fcaad2003cbee",
+"assets/assets/lleida_handbol_club_a.jpg": "f02f86802b6851b317918f18a827c373",
 "assets/assets/loading.gif": "a2dc9668f2cf170fe3efeb263128b0e7",
 "assets/assets/no-image.jpg": "335ceba57475f3c45f0d82f04b987bfa",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -21,11 +27,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d2edb5e0bbb70ef0af27d0b0a988fe54",
-"/": "d2edb5e0bbb70ef0af27d0b0a988fe54",
-"main.dart.js": "b829cd96af3bda62c2116b7ccd06510e",
-"manifest.json": "ee178b55dda02bc44ddb3da34548baa6",
-"version.json": "ac6814005aca1bc05f4247590ce99a8d"
+"index.html": "ca7ed9021a344c200082f1f0c45e136b",
+"/": "ca7ed9021a344c200082f1f0c45e136b",
+"main.dart.js": "c5be1fdeea884074cf57e7f418f93cde",
+"manifest.json": "f0c2535e335af72ff267f37b525f8987",
+"version.json": "8f1dc67f011e6af443f7539e7b8a1211"
 };
 
 // The application shell files that are downloaded before a service worker can
